@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Architsoni09/static/css/main.2925c2ef.css",
+    "main.js": "/Architsoni09/static/js/main.a9c051b5.js",
+    "index.html": "/Architsoni09/index.html",
+    "main.2925c2ef.css.map": "/Architsoni09/static/css/main.2925c2ef.css.map",
+    "main.a9c051b5.js.map": "/Architsoni09/static/js/main.a9c051b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2925c2ef.css",
+    "static/js/main.a9c051b5.js"
+  ]
+}
