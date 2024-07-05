@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Architsoni09/static/css/main.2925c2ef.css",
-    "main.js": "/Architsoni09/static/js/main.a9c051b5.js",
-    "index.html": "/Architsoni09/index.html",
-    "main.2925c2ef.css.map": "/Architsoni09/static/css/main.2925c2ef.css.map",
-    "main.a9c051b5.js.map": "/Architsoni09/static/js/main.a9c051b5.js.map"
+    "main.css": "/buybusy/static/css/main.2925c2ef.css",
+    "main.js": "/buybusy/static/js/main.eefefd40.js",
+    "index.html": "/buybusy/index.html",
+    "main.2925c2ef.css.map": "/buybusy/static/css/main.2925c2ef.css.map",
+    "main.eefefd40.js.map": "/buybusy/static/js/main.eefefd40.js.map"
   },
   "entrypoints": [
     "static/css/main.2925c2ef.css",
-    "static/js/main.a9c051b5.js"
+    "static/js/main.eefefd40.js"
   ]
 }
