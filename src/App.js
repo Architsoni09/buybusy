@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from "./Component/Navbar/Navbar";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {createBrowserRouter, Navigate, RouterProvider} from "react-router-dom";
 import Home from "./Pages/Home";
 import CustomAllProductsContext from "./Contexts/AllProductContext";
 import FirebaseAuth from "./Firebase/FirebaseAuth";
@@ -46,6 +46,7 @@ function App() {
                 { path: "/auth", element: <FirebaseAuth /> },
                 { path: "/cart", element: <Cart /> },
                 { path: "/orders", element: <Orders /> },
+                { path: "*", element: <Navigate to="/" /> }
             ]
         }
     ]);
